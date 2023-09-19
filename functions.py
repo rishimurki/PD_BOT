@@ -1,31 +1,3 @@
-'''
-*****************************************************************************************
-*
-*        		     ===============================================
-*           		       Pharma Bot (PB) Theme (eYRC 2022-23)
-*        		     ===============================================
-*
-*  This script contains all the past implemented functions of Pharma Bot (PB) Theme 
-*  (eYRC 2022-23).
-*  This software is made available on an "AS IS WHERE IS BASIS".
-*  Licensee/end user indemnifies and will keep e-Yantra indemnified from
-*  any and all claim(s) that emanate from the use of the Software or 
-*  breach of the terms of this agreement.
-*
-*****************************************************************************************
-'''
-
-# Team ID:			[ Team-ID ]
-# Author List:		[ Names of team members worked on this file separated by Comma: Name1, Name2, ... ]
-# Filename:			PB_theme_functions.py
-# Functions:		
-# 					[ Comma separated list of functions in this file ]
-
-####################### IMPORT MODULES #######################
-## You are not allowed to make any changes in this section. ##
-## You have to implement this task with the three available ##
-## modules for this task (numpy, opencv)                    ##
-##############################################################
 import socket
 import time
 import os, sys
