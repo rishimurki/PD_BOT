@@ -1,32 +1,4 @@
-'''
-*****************************************************************************************
-*
-*        		===============================================
-*           		Pharma Bot (PB) Theme (eYRC 2022-23)
-*        		===============================================
-*
-*  This script is to implement Task 6 of Pharma Bot (PB) Theme (eYRC 2022-23).
-*  
-*  This software is made available on an "AS IS WHERE IS BASIS".
-*  Licensee/end user indemnifies and will keep e-Yantra indemnified from
-*  any and all claim(s) that emanate from the use of the Software or 
-*  breach of the terms of this agreement.
-*
-*****************************************************************************************
-'''
 
-# Team ID:			[ PB_3282 ]
-# Filename:			task_6.py
-# Functions:		
-# 					[ get_key, action_shop, action_node, task_6_implementation ]
-# Theme: Pharma Bot
-# Global Variables: [shop_already_reached, delivery_address, shops_have_packages, end_node, orientation ]
-
-####################### IMPORT MODULES #######################
-## You are not allowed to make any changes in this section. ##
-## You have to implement this task with the three available ##
-## modules for this task (numpy, opencv)                    ##
-##############################################################
 import socket
 import time
 import os, sys
